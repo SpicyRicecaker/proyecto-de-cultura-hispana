@@ -1,0 +1,4 @@
+baseURL = 'https://spicyricecaker.github.io/proyecto-de-cultura-espana'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
